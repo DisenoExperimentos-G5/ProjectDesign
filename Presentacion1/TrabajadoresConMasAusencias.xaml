@@ -1,0 +1,16 @@
+﻿<Window x:Class="Presentacion1.TrabajadoresConMasAusencias"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Presentacion1"
+        mc:Ignorable="d"
+        Title="TrabajadoresConMasAusencias" Height="485" Width="800">
+    <Grid Margin="0,0,0,-1">
+        <Image HorizontalAlignment="Center" Height="470" VerticalAlignment="Center" Width="800" Source="/Screenshot_11.jpeg" Stretch="Fill"/>
+
+        <DataGrid x:Name="dgTrabajadoresmasausencias"  Margin="136,195,136,96" SelectionChanged="dgTrabajadoresmasausencias_SelectionChanged"/>
+        <Button x:Name="btnSalir" Content="Salir" HorizontalAlignment="Center" Height="30" Margin="0,381,0,0" VerticalAlignment="Top" Width="84" Background="#FF2C595A" BorderBrush="White" Foreground="White" FontFamily="Agency FB" FontSize="16" FontWeight="Bold" Click="btnSalir_Click"/>
+
+    </Grid>
+</Window>

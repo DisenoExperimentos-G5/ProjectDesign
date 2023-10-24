@@ -1,0 +1,18 @@
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Entidades\bin\Debug\Entidades.dll
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Entidades\bin\Debug\Entidades.pdb
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Entidades\obj\Debug\Entidades.dll
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Entidades\obj\Debug\Entidades.pdb
+D:\TRabajosxd\FINAL ULTIMA VERSION\Entidades\bin\Debug\Entidades.dll
+D:\TRabajosxd\FINAL ULTIMA VERSION\Entidades\bin\Debug\Entidades.pdb
+D:\TRabajosxd\FINAL ULTIMA VERSION\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+D:\TRabajosxd\FINAL ULTIMA VERSION\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\TRabajosxd\FINAL ULTIMA VERSION\Entidades\obj\Debug\Entidades.dll
+D:\TRabajosxd\FINAL ULTIMA VERSION\Entidades\obj\Debug\Entidades.pdb
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Entidades\bin\Debug\Entidades.dll
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Entidades\bin\Debug\Entidades.pdb
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Entidades\obj\Debug\Entidades.dll
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Entidades\obj\Debug\Entidades.pdb

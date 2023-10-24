@@ -1,0 +1,23 @@
+﻿<Window x:Class="Presentacion1.RegistrarContolHoras"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Presentacion1"
+        mc:Ignorable="d"
+        Title="RegistrarContolHoras" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="lbIdtrabajador" Content="Id Trabajador" HorizontalAlignment="Left" Margin="90,84,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblhoraingreso" Content="Hora Ingreso" HorizontalAlignment="Left" Margin="94,172,0,0" VerticalAlignment="Top" Height="37" Width="83"/>
+        <Label x:Name="lbhorasalida" Content="HoraSalida" HorizontalAlignment="Left" Margin="92,221,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblFechaRegistro" Content="Fecha Registro" HorizontalAlignment="Left" Margin="90,266,0,0" VerticalAlignment="Top"/>
+        <DatePicker x:Name="dpHoraIngreso" HorizontalAlignment="Left" Margin="239,172,0,0" VerticalAlignment="Top" Width="118" SelectedDateFormat="Long" IsTodayHighlighted="True"/>
+        <DatePicker x:Name="dpHoraSalida" HorizontalAlignment="Left" Margin="239,222,0,0" VerticalAlignment="Top" SelectedDateFormat="Long"/>
+        <DatePicker x:Name="dpHoraRegistro" HorizontalAlignment="Left" Margin="239,268,0,0" VerticalAlignment="Top" SelectedDateFormat="Long"/>
+        <CheckBox x:Name="chbAusencia" Content="Ausencia" HorizontalAlignment="Left" Margin="495,293,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnRegistrarControlHoras" Content="Registrar Control Horas" HorizontalAlignment="Left" Margin="136,330,0,0" VerticalAlignment="Top" Height="68" Width="168" Click="btnRegistrarControlHoras_Click"/>
+        <ComboBox x:Name="cbIdTrabajador" HorizontalAlignment="Left" Margin="237,94,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="cbIdTrabajador_SelectionChanged"/>
+        <Button x:Name="btnAusencias" Content="Registrar Ausencia" HorizontalAlignment="Left" Margin="461,330,0,0" VerticalAlignment="Top" Height="68" Width="164"/>
+
+    </Grid>
+</Window>

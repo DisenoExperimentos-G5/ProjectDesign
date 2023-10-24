@@ -1,0 +1,45 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Shapes;
+using Entidades;
+using Datos;
+using Negocio;
+namespace Presentacion1
+{
+    /// <summary>
+    /// Interaction logic for TrabajadoresConMasAusencias.xaml
+    /// </summary>
+    public partial class TrabajadoresConMasAusencias : Window
+    {
+        private nAusencias gausencias = new nAusencias();
+        public TrabajadoresConMasAusencias()
+        {
+            InitializeComponent();
+            mostrar();
+        }
+        public void mostrar()
+        {
+            dgTrabajadoresmasausencias.ItemsSource = gausencias.Lista_trabajador_con_mas_ausencias();
+        }
+       
+        private void dgTrabajadoresmasausencias_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
+
+        private void btnSalir_Click(object sender, RoutedEventArgs e)
+        {
+            Close();
+        }
+    }
+}

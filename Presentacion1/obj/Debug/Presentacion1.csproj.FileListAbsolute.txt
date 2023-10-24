@@ -1,0 +1,180 @@
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Presentacion1\bin\Debug\Presentacion1.exe.config
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Presentacion1\bin\Debug\Presentacion1.exe
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Presentacion1\bin\Debug\Presentacion1.pdb
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Presentacion1\obj\Debug\Presentacion1.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Presentacion1\obj\Debug\Presentacion1.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Presentacion1\obj\Debug\MainWindow.g.cs
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Presentacion1\obj\Debug\RegistrarContolHoras.g.cs
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Presentacion1\obj\Debug\RegistrarSector.g.cs
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Presentacion1\obj\Debug\RegistroCargo.g.cs
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Presentacion1\obj\Debug\RegistrosyReportes.g.cs
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Presentacion1\obj\Debug\RegistroTrabajador.g.cs
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Presentacion1\obj\Debug\App.g.cs
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Presentacion1\obj\Debug\Presentacion1_MarkupCompile.cache
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Presentacion1\obj\Debug\Presentacion1_MarkupCompile.lref
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Presentacion1\obj\Debug\MainWindow.baml
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Presentacion1\obj\Debug\RegistrarContolHoras.baml
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Presentacion1\obj\Debug\RegistrarSector.baml
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Presentacion1\obj\Debug\RegistroCargo.baml
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Presentacion1\obj\Debug\RegistrosyReportes.baml
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Presentacion1\obj\Debug\RegistroTrabajador.baml
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Presentacion1\obj\Debug\Presentacion1.g.resources
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Presentacion1\obj\Debug\Presentacion1.Properties.Resources.resources
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Presentacion1\obj\Debug\Presentacion1.csproj.GenerateResource.cache
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Presentacion1\obj\Debug\Presentacion1.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Presentacion1\obj\Debug\Presentacion1.exe
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Presentacion1\obj\Debug\Presentacion1.pdb
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Presentacion1\bin\Debug\Datos.dll
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Presentacion1\bin\Debug\Entidades.dll
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Presentacion1\bin\Debug\Negocio.dll
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Presentacion1\bin\Debug\Datos.pdb
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Presentacion1\bin\Debug\Entidades.pdb
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Presentacion1\bin\Debug\Negocio.pdb
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Presentacion1\obj\Debug\Presentacion1.csproj.CopyComplete
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Presentacion1\obj\Debug\Presentacion1.RegistrarControlHoras1.resources
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Presentacion1\obj\Debug\Presentacion1.ReporteSalarioSector.resources
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Presentacion1\obj\Debug\ReporteSector_mayor_ausencias.g.cs
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Presentacion1\obj\Debug\ReporteSector_mayor_ausencias.baml
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Presentacion1\obj\Debug\ReporteSalariotrabajadorSector.g.cs
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Presentacion1\obj\Debug\ReporteSalariotrabajadorSector.baml
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Presentacion1\obj\Debug\TrabajadoresConMasAusencias.g.cs
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Presentacion1\obj\Debug\TrabajadoresConMasAusencias.baml
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Presentacion1\obj\Debug\Trabajadoresconmashoras.g.cs
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Presentacion1\obj\Debug\Trabajadoresconmashoras.baml
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Presentacion1\obj\Debug\trabajadoresconmenoshorastrabajadas.g.cs
+C:\Users\gabri\Desktop\TrabajoFinalA\TrabajoFinalA\Presentacion1\obj\Debug\trabajadoresconmenoshorastrabajadas.baml
+D:\TRabajosxd\FINAL ULTIMA VERSION\Presentacion1\bin\Debug\Presentacion1.exe.config
+D:\TRabajosxd\FINAL ULTIMA VERSION\Presentacion1\bin\Debug\Presentacion1.exe
+D:\TRabajosxd\FINAL ULTIMA VERSION\Presentacion1\bin\Debug\Presentacion1.pdb
+D:\TRabajosxd\FINAL ULTIMA VERSION\Presentacion1\bin\Debug\Datos.dll
+D:\TRabajosxd\FINAL ULTIMA VERSION\Presentacion1\bin\Debug\Entidades.dll
+D:\TRabajosxd\FINAL ULTIMA VERSION\Presentacion1\bin\Debug\Negocio.dll
+D:\TRabajosxd\FINAL ULTIMA VERSION\Presentacion1\bin\Debug\Datos.pdb
+D:\TRabajosxd\FINAL ULTIMA VERSION\Presentacion1\bin\Debug\Entidades.pdb
+D:\TRabajosxd\FINAL ULTIMA VERSION\Presentacion1\bin\Debug\Negocio.pdb
+D:\TRabajosxd\FINAL ULTIMA VERSION\Presentacion1\obj\Debug\Presentacion1.csproj.AssemblyReference.cache
+D:\TRabajosxd\FINAL ULTIMA VERSION\Presentacion1\obj\Debug\Presentacion1.csproj.SuggestedBindingRedirects.cache
+D:\TRabajosxd\FINAL ULTIMA VERSION\Presentacion1\obj\Debug\MainWindow.g.cs
+D:\TRabajosxd\FINAL ULTIMA VERSION\Presentacion1\obj\Debug\RegistrarContolHoras.g.cs
+D:\TRabajosxd\FINAL ULTIMA VERSION\Presentacion1\obj\Debug\RegistrarSector.g.cs
+D:\TRabajosxd\FINAL ULTIMA VERSION\Presentacion1\obj\Debug\RegistroCargo.g.cs
+D:\TRabajosxd\FINAL ULTIMA VERSION\Presentacion1\obj\Debug\RegistrosyReportes.g.cs
+D:\TRabajosxd\FINAL ULTIMA VERSION\Presentacion1\obj\Debug\RegistroTrabajador.g.cs
+D:\TRabajosxd\FINAL ULTIMA VERSION\Presentacion1\obj\Debug\ReporteSalariotrabajadorSector.g.cs
+D:\TRabajosxd\FINAL ULTIMA VERSION\Presentacion1\obj\Debug\ReporteSector_mayor_ausencias.g.cs
+D:\TRabajosxd\FINAL ULTIMA VERSION\Presentacion1\obj\Debug\TrabajadoresConMasAusencias.g.cs
+D:\TRabajosxd\FINAL ULTIMA VERSION\Presentacion1\obj\Debug\Trabajadoresconmashoras.g.cs
+D:\TRabajosxd\FINAL ULTIMA VERSION\Presentacion1\obj\Debug\trabajadoresconmenoshorastrabajadas.g.cs
+D:\TRabajosxd\FINAL ULTIMA VERSION\Presentacion1\obj\Debug\App.g.cs
+D:\TRabajosxd\FINAL ULTIMA VERSION\Presentacion1\obj\Debug\Presentacion1_MarkupCompile.cache
+D:\TRabajosxd\FINAL ULTIMA VERSION\Presentacion1\obj\Debug\Presentacion1_MarkupCompile.lref
+D:\TRabajosxd\FINAL ULTIMA VERSION\Presentacion1\obj\Debug\MainWindow.baml
+D:\TRabajosxd\FINAL ULTIMA VERSION\Presentacion1\obj\Debug\RegistrarContolHoras.baml
+D:\TRabajosxd\FINAL ULTIMA VERSION\Presentacion1\obj\Debug\RegistrarSector.baml
+D:\TRabajosxd\FINAL ULTIMA VERSION\Presentacion1\obj\Debug\RegistroCargo.baml
+D:\TRabajosxd\FINAL ULTIMA VERSION\Presentacion1\obj\Debug\RegistrosyReportes.baml
+D:\TRabajosxd\FINAL ULTIMA VERSION\Presentacion1\obj\Debug\RegistroTrabajador.baml
+D:\TRabajosxd\FINAL ULTIMA VERSION\Presentacion1\obj\Debug\ReporteSalariotrabajadorSector.baml
+D:\TRabajosxd\FINAL ULTIMA VERSION\Presentacion1\obj\Debug\ReporteSector_mayor_ausencias.baml
+D:\TRabajosxd\FINAL ULTIMA VERSION\Presentacion1\obj\Debug\TrabajadoresConMasAusencias.baml
+D:\TRabajosxd\FINAL ULTIMA VERSION\Presentacion1\obj\Debug\Trabajadoresconmashoras.baml
+D:\TRabajosxd\FINAL ULTIMA VERSION\Presentacion1\obj\Debug\trabajadoresconmenoshorastrabajadas.baml
+D:\TRabajosxd\FINAL ULTIMA VERSION\Presentacion1\obj\Debug\Presentacion1.g.resources
+D:\TRabajosxd\FINAL ULTIMA VERSION\Presentacion1\obj\Debug\Presentacion1.Properties.Resources.resources
+D:\TRabajosxd\FINAL ULTIMA VERSION\Presentacion1\obj\Debug\Presentacion1.RegistrarControlHoras1.resources
+D:\TRabajosxd\FINAL ULTIMA VERSION\Presentacion1\obj\Debug\Presentacion1.ReporteSalarioSector.resources
+D:\TRabajosxd\FINAL ULTIMA VERSION\Presentacion1\obj\Debug\Presentacion1.csproj.GenerateResource.cache
+D:\TRabajosxd\FINAL ULTIMA VERSION\Presentacion1\obj\Debug\Presentacion1.csproj.CoreCompileInputs.cache
+D:\TRabajosxd\FINAL ULTIMA VERSION\Presentacion1\obj\Debug\Presentacion1.csproj.CopyComplete
+D:\TRabajosxd\FINAL ULTIMA VERSION\Presentacion1\obj\Debug\Presentacion1.exe
+D:\TRabajosxd\FINAL ULTIMA VERSION\Presentacion1\obj\Debug\Presentacion1.pdb
+D:\TRabajosxd\FINAL AHORA SI ULTIMA VERSION\Presentacion1\bin\Debug\Presentacion1.exe.config
+D:\TRabajosxd\FINAL AHORA SI ULTIMA VERSION\Presentacion1\bin\Debug\Presentacion1.exe
+D:\TRabajosxd\FINAL AHORA SI ULTIMA VERSION\Presentacion1\bin\Debug\Presentacion1.pdb
+D:\TRabajosxd\FINAL AHORA SI ULTIMA VERSION\Presentacion1\bin\Debug\Datos.dll
+D:\TRabajosxd\FINAL AHORA SI ULTIMA VERSION\Presentacion1\bin\Debug\Entidades.dll
+D:\TRabajosxd\FINAL AHORA SI ULTIMA VERSION\Presentacion1\bin\Debug\Negocio.dll
+D:\TRabajosxd\FINAL AHORA SI ULTIMA VERSION\Presentacion1\bin\Debug\Datos.pdb
+D:\TRabajosxd\FINAL AHORA SI ULTIMA VERSION\Presentacion1\bin\Debug\Entidades.pdb
+D:\TRabajosxd\FINAL AHORA SI ULTIMA VERSION\Presentacion1\bin\Debug\Negocio.pdb
+D:\TRabajosxd\FINAL AHORA SI ULTIMA VERSION\Presentacion1\obj\Debug\Presentacion1.csproj.AssemblyReference.cache
+D:\TRabajosxd\FINAL AHORA SI ULTIMA VERSION\Presentacion1\obj\Debug\Presentacion1.csproj.SuggestedBindingRedirects.cache
+D:\TRabajosxd\FINAL AHORA SI ULTIMA VERSION\Presentacion1\obj\Debug\MainWindow.g.cs
+D:\TRabajosxd\FINAL AHORA SI ULTIMA VERSION\Presentacion1\obj\Debug\RegistrarContolHoras.g.cs
+D:\TRabajosxd\FINAL AHORA SI ULTIMA VERSION\Presentacion1\obj\Debug\RegistrarSector.g.cs
+D:\TRabajosxd\FINAL AHORA SI ULTIMA VERSION\Presentacion1\obj\Debug\RegistroCargo.g.cs
+D:\TRabajosxd\FINAL AHORA SI ULTIMA VERSION\Presentacion1\obj\Debug\RegistrosyReportes.g.cs
+D:\TRabajosxd\FINAL AHORA SI ULTIMA VERSION\Presentacion1\obj\Debug\RegistroTrabajador.g.cs
+D:\TRabajosxd\FINAL AHORA SI ULTIMA VERSION\Presentacion1\obj\Debug\ReporteSalariotrabajadorSector.g.cs
+D:\TRabajosxd\FINAL AHORA SI ULTIMA VERSION\Presentacion1\obj\Debug\ReporteSector_mayor_ausencias.g.cs
+D:\TRabajosxd\FINAL AHORA SI ULTIMA VERSION\Presentacion1\obj\Debug\TrabajadoresConMasAusencias.g.cs
+D:\TRabajosxd\FINAL AHORA SI ULTIMA VERSION\Presentacion1\obj\Debug\Trabajadoresconmashoras.g.cs
+D:\TRabajosxd\FINAL AHORA SI ULTIMA VERSION\Presentacion1\obj\Debug\trabajadoresconmenoshorastrabajadas.g.cs
+D:\TRabajosxd\FINAL AHORA SI ULTIMA VERSION\Presentacion1\obj\Debug\App.g.cs
+D:\TRabajosxd\FINAL AHORA SI ULTIMA VERSION\Presentacion1\obj\Debug\Presentacion1_MarkupCompile.cache
+D:\TRabajosxd\FINAL AHORA SI ULTIMA VERSION\Presentacion1\obj\Debug\Presentacion1_MarkupCompile.lref
+D:\TRabajosxd\FINAL AHORA SI ULTIMA VERSION\Presentacion1\obj\Debug\MainWindow.baml
+D:\TRabajosxd\FINAL AHORA SI ULTIMA VERSION\Presentacion1\obj\Debug\RegistrarContolHoras.baml
+D:\TRabajosxd\FINAL AHORA SI ULTIMA VERSION\Presentacion1\obj\Debug\RegistrarSector.baml
+D:\TRabajosxd\FINAL AHORA SI ULTIMA VERSION\Presentacion1\obj\Debug\RegistroCargo.baml
+D:\TRabajosxd\FINAL AHORA SI ULTIMA VERSION\Presentacion1\obj\Debug\RegistrosyReportes.baml
+D:\TRabajosxd\FINAL AHORA SI ULTIMA VERSION\Presentacion1\obj\Debug\RegistroTrabajador.baml
+D:\TRabajosxd\FINAL AHORA SI ULTIMA VERSION\Presentacion1\obj\Debug\ReporteSalariotrabajadorSector.baml
+D:\TRabajosxd\FINAL AHORA SI ULTIMA VERSION\Presentacion1\obj\Debug\ReporteSector_mayor_ausencias.baml
+D:\TRabajosxd\FINAL AHORA SI ULTIMA VERSION\Presentacion1\obj\Debug\TrabajadoresConMasAusencias.baml
+D:\TRabajosxd\FINAL AHORA SI ULTIMA VERSION\Presentacion1\obj\Debug\Trabajadoresconmashoras.baml
+D:\TRabajosxd\FINAL AHORA SI ULTIMA VERSION\Presentacion1\obj\Debug\trabajadoresconmenoshorastrabajadas.baml
+D:\TRabajosxd\FINAL AHORA SI ULTIMA VERSION\Presentacion1\obj\Debug\Presentacion1.g.resources
+D:\TRabajosxd\FINAL AHORA SI ULTIMA VERSION\Presentacion1\obj\Debug\Presentacion1.Properties.Resources.resources
+D:\TRabajosxd\FINAL AHORA SI ULTIMA VERSION\Presentacion1\obj\Debug\Presentacion1.RegistrarControlHoras1.resources
+D:\TRabajosxd\FINAL AHORA SI ULTIMA VERSION\Presentacion1\obj\Debug\Presentacion1.ReporteSalarioSector.resources
+D:\TRabajosxd\FINAL AHORA SI ULTIMA VERSION\Presentacion1\obj\Debug\Presentacion1.csproj.GenerateResource.cache
+D:\TRabajosxd\FINAL AHORA SI ULTIMA VERSION\Presentacion1\obj\Debug\Presentacion1.csproj.CoreCompileInputs.cache
+D:\TRabajosxd\FINAL AHORA SI ULTIMA VERSION\Presentacion1\obj\Debug\Presentacion1.csproj.CopyComplete
+D:\TRabajosxd\FINAL AHORA SI ULTIMA VERSION\Presentacion1\obj\Debug\Presentacion1.exe
+D:\TRabajosxd\FINAL AHORA SI ULTIMA VERSION\Presentacion1\obj\Debug\Presentacion1.pdb
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Presentacion1\bin\Debug\Presentacion1.exe.config
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Presentacion1\bin\Debug\Presentacion1.exe
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Presentacion1\bin\Debug\Presentacion1.pdb
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Presentacion1\bin\Debug\Datos.dll
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Presentacion1\bin\Debug\Entidades.dll
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Presentacion1\bin\Debug\Negocio.dll
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Presentacion1\bin\Debug\Datos.pdb
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Presentacion1\bin\Debug\Entidades.pdb
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Presentacion1\bin\Debug\Negocio.pdb
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Presentacion1\obj\Debug\Presentacion1.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Presentacion1\obj\Debug\Presentacion1.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Presentacion1\obj\Debug\MainWindow.g.cs
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Presentacion1\obj\Debug\RegistrarContolHoras.g.cs
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Presentacion1\obj\Debug\RegistrarSector.g.cs
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Presentacion1\obj\Debug\RegistroCargo.g.cs
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Presentacion1\obj\Debug\RegistrosyReportes.g.cs
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Presentacion1\obj\Debug\RegistroTrabajador.g.cs
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Presentacion1\obj\Debug\ReporteSalariotrabajadorSector.g.cs
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Presentacion1\obj\Debug\ReporteSector_mayor_ausencias.g.cs
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Presentacion1\obj\Debug\TrabajadoresConMasAusencias.g.cs
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Presentacion1\obj\Debug\Trabajadoresconmashoras.g.cs
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Presentacion1\obj\Debug\trabajadoresconmenoshorastrabajadas.g.cs
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Presentacion1\obj\Debug\App.g.cs
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Presentacion1\obj\Debug\Presentacion1_MarkupCompile.cache
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Presentacion1\obj\Debug\Presentacion1_MarkupCompile.lref
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Presentacion1\obj\Debug\MainWindow.baml
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Presentacion1\obj\Debug\RegistrarContolHoras.baml
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Presentacion1\obj\Debug\RegistrarSector.baml
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Presentacion1\obj\Debug\RegistroCargo.baml
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Presentacion1\obj\Debug\RegistrosyReportes.baml
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Presentacion1\obj\Debug\RegistroTrabajador.baml
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Presentacion1\obj\Debug\ReporteSalariotrabajadorSector.baml
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Presentacion1\obj\Debug\ReporteSector_mayor_ausencias.baml
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Presentacion1\obj\Debug\TrabajadoresConMasAusencias.baml
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Presentacion1\obj\Debug\Trabajadoresconmashoras.baml
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Presentacion1\obj\Debug\trabajadoresconmenoshorastrabajadas.baml
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Presentacion1\obj\Debug\Presentacion1.g.resources
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Presentacion1\obj\Debug\Presentacion1.Properties.Resources.resources
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Presentacion1\obj\Debug\Presentacion1.RegistrarControlHoras1.resources
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Presentacion1\obj\Debug\Presentacion1.ReporteSalarioSector.resources
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Presentacion1\obj\Debug\Presentacion1.csproj.GenerateResource.cache
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Presentacion1\obj\Debug\Presentacion1.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Presentacion1\obj\Debug\Presentacion1.csproj.CopyComplete
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Presentacion1\obj\Debug\Presentacion1.exe
+C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Presentacion1\obj\Debug\Presentacion1.pdb

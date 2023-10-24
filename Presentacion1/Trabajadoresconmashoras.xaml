@@ -1,0 +1,16 @@
+﻿<Window x:Class="Presentacion1.Trabajadoresconmashoras"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Presentacion1"
+        mc:Ignorable="d"
+        Title="Trabajadoresconmashoras" Height="450" Width="800">
+    <Grid>
+        <Image HorizontalAlignment="Center" Height="434" VerticalAlignment="Center" Width="800" Source="/WhatsApp Image 2022-06-27 at 9.38.47 PM.jpeg" Stretch="Fill"/>
+
+        <DataGrid x:Name="dgtrabajadoresmashoras"  Margin="134,139,134,95"/>
+        <Button x:Name="btnSalir" Content="Salir" HorizontalAlignment="Center" Height="35" Margin="0,354,0,0" VerticalAlignment="Top" Width="90" Background="#FF2C595A" BorderBrush="White" Foreground="White" FontFamily="Agency FB" FontWeight="Bold" FontSize="16" Click="btnSalir_Click"/>
+
+    </Grid>
+</Window>
