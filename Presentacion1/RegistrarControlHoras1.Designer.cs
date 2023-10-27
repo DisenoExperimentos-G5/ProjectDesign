@@ -104,7 +104,7 @@
             this.checkBox1.Font = new System.Drawing.Font("Agency FB", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.checkBox1.ForeColor = System.Drawing.SystemColors.Control;
             this.checkBox1.Location = new System.Drawing.Point(957, 260);
-            this.checkBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.checkBox1.Margin = new System.Windows.Forms.Padding(4);
             this.checkBox1.Name = "checkBox1";
             this.checkBox1.Size = new System.Drawing.Size(142, 45);
             this.checkBox1.TabIndex = 4;
@@ -114,9 +114,9 @@
             // 
             // dateTimePicker1
             // 
-            this.dateTimePicker1.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
+            this.dateTimePicker1.Format = System.Windows.Forms.DateTimePickerFormat.Time;
             this.dateTimePicker1.Location = new System.Drawing.Point(524, 240);
-            this.dateTimePicker1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.dateTimePicker1.Margin = new System.Windows.Forms.Padding(4);
             this.dateTimePicker1.Name = "dateTimePicker1";
             this.dateTimePicker1.Size = new System.Drawing.Size(358, 29);
             this.dateTimePicker1.TabIndex = 5;
@@ -127,7 +127,7 @@
             // 
             this.dateTimePicker2.Format = System.Windows.Forms.DateTimePickerFormat.Time;
             this.dateTimePicker2.Location = new System.Drawing.Point(524, 340);
-            this.dateTimePicker2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.dateTimePicker2.Margin = new System.Windows.Forms.Padding(4);
             this.dateTimePicker2.Name = "dateTimePicker2";
             this.dateTimePicker2.Size = new System.Drawing.Size(358, 29);
             this.dateTimePicker2.TabIndex = 6;
@@ -135,7 +135,7 @@
             // dateTimePicker3
             // 
             this.dateTimePicker3.Location = new System.Drawing.Point(512, 434);
-            this.dateTimePicker3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.dateTimePicker3.Margin = new System.Windows.Forms.Padding(4);
             this.dateTimePicker3.Name = "dateTimePicker3";
             this.dateTimePicker3.Size = new System.Drawing.Size(371, 29);
             this.dateTimePicker3.TabIndex = 7;
@@ -144,7 +144,7 @@
             // 
             this.cbidTrabajador.FormattingEnabled = true;
             this.cbidTrabajador.Location = new System.Drawing.Point(524, 155);
-            this.cbidTrabajador.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.cbidTrabajador.Margin = new System.Windows.Forms.Padding(4);
             this.cbidTrabajador.Name = "cbidTrabajador";
             this.cbidTrabajador.Size = new System.Drawing.Size(358, 32);
             this.cbidTrabajador.TabIndex = 8;
@@ -156,7 +156,7 @@
             this.btnregistrar.Font = new System.Drawing.Font("Agency FB", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnregistrar.ForeColor = System.Drawing.SystemColors.Control;
             this.btnregistrar.Location = new System.Drawing.Point(236, 519);
-            this.btnregistrar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnregistrar.Margin = new System.Windows.Forms.Padding(4);
             this.btnregistrar.Name = "btnregistrar";
             this.btnregistrar.Size = new System.Drawing.Size(251, 65);
             this.btnregistrar.TabIndex = 9;
@@ -170,7 +170,7 @@
             this.btnregistrarAusencia.Font = new System.Drawing.Font("Agency FB", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnregistrarAusencia.ForeColor = System.Drawing.SystemColors.Control;
             this.btnregistrarAusencia.Location = new System.Drawing.Point(579, 519);
-            this.btnregistrarAusencia.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnregistrarAusencia.Margin = new System.Windows.Forms.Padding(4);
             this.btnregistrarAusencia.Name = "btnregistrarAusencia";
             this.btnregistrarAusencia.Size = new System.Drawing.Size(306, 65);
             this.btnregistrarAusencia.TabIndex = 10;
@@ -184,7 +184,7 @@
             this.btnSalir.Font = new System.Drawing.Font("Agency FB", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSalir.ForeColor = System.Drawing.SystemColors.Control;
             this.btnSalir.Location = new System.Drawing.Point(466, 609);
-            this.btnSalir.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnSalir.Margin = new System.Windows.Forms.Padding(4);
             this.btnSalir.Name = "btnSalir";
             this.btnSalir.Size = new System.Drawing.Size(147, 65);
             this.btnSalir.TabIndex = 12;
@@ -196,17 +196,18 @@
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
             this.pictureBox1.Location = new System.Drawing.Point(-2, -61);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(6);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(642, 398);
+            this.pictureBox1.Size = new System.Drawing.Size(1149, 759);
             this.pictureBox1.TabIndex = 13;
             this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // RegistrarControlHoras1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 24F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1153, 694);
+            this.ClientSize = new System.Drawing.Size(1142, 698);
             this.Controls.Add(this.btnSalir);
             this.Controls.Add(this.btnregistrarAusencia);
             this.Controls.Add(this.btnregistrar);
@@ -220,7 +221,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.lbidtrabajador);
             this.Controls.Add(this.pictureBox1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "RegistrarControlHoras1";
             this.Text = "RegistrarControlHoras";
             this.Load += new System.EventHandler(this.RegistrarControlHoras1_Load);
