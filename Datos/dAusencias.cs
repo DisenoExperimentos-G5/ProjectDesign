@@ -34,6 +34,7 @@ namespace Datos
             try
             {
                 SqlConnection con = db.ConectaDb();
+                eTrabajador trabajador = new eTrabajador();
                 SqlCommand cmd = new SqlCommand("sp_sel_trabajadorMayorAusencias", con);
                 cmd.CommandType = System.Data.CommandType.StoredProcedure;
                 SqlDataReader reader = cmd.ExecuteReader();
@@ -41,10 +42,12 @@ namespace Datos
                 while (reader.Read())
                 {
 
-                    eAusencias trabajador = new eAusencias();
-                    trabajador.nombre = (string)reader["Nombre"];
-                    trabajador.numero_de_ausencias = (int)reader["numeroAusencias"];
-                    lsTrabajadores.Add(trabajador);
+                    eAusencias ausencia = new eAusencias();
+                    trabajador.Nombres = (string)reader["Nombre"];
+                    trabajador.Apellido_Paterno = (string)reader["Apellido_paterno"];
+                    ausencia.numero_de_ausencias = (int)reader["numeroAusencias"];
+                    ausencia.id_trabajador = trabajador;
+                    lsTrabajadores.Add(ausencia);
                 }
                 reader.Close();
                 return lsTrabajadores;

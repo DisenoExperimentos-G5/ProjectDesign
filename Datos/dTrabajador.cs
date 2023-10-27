@@ -314,6 +314,8 @@ namespace Datos
             try
             {
                 List<eTrabajador> lsCh = new List<eTrabajador>();
+                eSector sector = new eSector();
+                eCargo cargo = new eCargo();
                 SqlConnection con = db.ConectaDb();
                 SqlCommand cmd = new SqlCommand("sp_sel_salarioporsector", con);
                 cmd.CommandType = System.Data.CommandType.StoredProcedure;
@@ -325,6 +327,18 @@ namespace Datos
                     tr.Id_Trabajador = (int)reader["Trabajador"];
                     tr.Nombres = (string)reader["Nombre"];
                     tr.Salario = (decimal)reader["salario"];
+                    tr.Apellido_Paterno = (string)reader["apellido_paterno"];
+                    tr.Apellido_Materno = (string)reader["apellido_materno"];
+                    tr.Nombre_Completo = (string)reader["Nombre"] + " " + (string)reader["apellido_paterno"];
+                    tr.DNI = (int)reader["Dni"];
+                    tr.Fecha_Nacimiento = (DateTime)reader["Fecha_Nacimiento"];
+                    tr.Telefono = (int)reader["Telefono"];
+                    tr.Direccion = (string)reader["Direccion"];
+                    tr.AnhoIngreso = (int)reader["Tiempo_en_la_empresa"];
+                    sector.Nombre_Sector = (string)reader["Sector"];
+                    tr.sector = sector;
+                    cargo.Nombre_Cargo = (string)reader["Cargo"];
+                    tr.cargo = cargo;
                     lsCh.Add(tr);
                 }
                 reader.Close();
