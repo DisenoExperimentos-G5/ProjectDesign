@@ -46,7 +46,6 @@ namespace Datos
                     trabajador.Nombres = (string)reader["Nombre"];
                     trabajador.Apellido_Paterno = (string)reader["Apellido_paterno"];
                     ausencia.numero_de_ausencias = (int)reader["numeroAusencias"];
-                    ausencia.id_trabajador = trabajador;
                     lsTrabajadores.Add(ausencia);
                 }
                 reader.Close();

@@ -12,8 +12,8 @@
         <ComboBox x:Name="cbidsector" HorizontalAlignment="Left" Margin="327,148,0,0" VerticalAlignment="Top" Width="299" SelectionChanged="cbidsector_SelectionChanged" Height="26
                   "/>
         <Button x:Name="btnReporte" Content="Reporte" HorizontalAlignment="Left" Margin="285,194,0,0" VerticalAlignment="Top" Height="35" Width="80" Click="Button_Click" Background="#FF2C595A" BorderBrush="White" Foreground="White" FontFamily="Agency FB" FontSize="16" FontWeight="Bold"/>
-        <DataGrid x:Name="dgSalario" Margin="135,259,165,31" SelectionChanged="dgSalario_SelectionChanged"/>
-        <Label x:Name="lbnombresector" Content="ID sector :" HorizontalAlignment="Left" Margin="184,139,0,0" VerticalAlignment="Top" Height="40" Width="106" Foreground="White" FontFamily="Agency FB" FontSize="26" FontWeight="Bold" BorderBrush="White" OpacityMask="White">
+        <DataGrid x:Name="dgSalario" Margin="31,234,29,31" SelectionChanged="dgSalario_SelectionChanged"/>
+        <Label x:Name="lbnombresector" Content="Nombre del Sector:" HorizontalAlignment="Left" Margin="107,139,0,0" VerticalAlignment="Top" Height="40" Width="183" Foreground="White" FontFamily="Agency FB" FontSize="26" FontWeight="Bold" BorderBrush="White" OpacityMask="White">
             <Label.Background>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                     <GradientStop Color="#FFFD5505" Offset="1"/>
