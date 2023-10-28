@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="ReporteSector_mayor_ausencias" Height="550" Width="800">
     <Grid Margin="0,0,0,-1">
-        <Image HorizontalAlignment="Center" Height="535" VerticalAlignment="Center" Width="800" Source="/WhatsApp Image 2022-06-27 at 9.38.27 PM.jpeg" Stretch="Fill"/>
+        <Image Source="/WhatsApp Image 2022-06-27 at 9.38.27 PM.jpeg" Stretch="Fill" Margin="0,0,0,0"/>
 
         <DataGrid x:Name="dgausencias" Margin="118,169,118,95" SelectionChanged="dgausencias_SelectionChanged"/>
         <Button x:Name="btnSalir" Content="Salir" HorizontalAlignment="Center" Height="30" Margin="0,457,0,0" VerticalAlignment="Top" Width="96" Background="#FF2C595A" BorderBrush="White" Foreground="White" FontFamily="Agency FB" FontWeight="Bold" FontSize="16" Click="btnSalir_Click"/>
