@@ -13,7 +13,7 @@
         <TextBox x:Name="txtAP" HorizontalAlignment="Left" Margin="270,228,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="180" Height="19"/>
         <TextBox x:Name="txtAM" HorizontalAlignment="Left" Margin="270,272,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="180" Height="19"/>
         <TextBox x:Name="txtDni" HorizontalAlignment="Left" Margin="270,314,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="180" Height="19"/>
-        <DatePicker x:Name="dtpFechaNacimiento" HorizontalAlignment="Left" Margin="268,348,0,0" VerticalAlignment="Top" SelectedDateFormat="Long" Width="182" Height="26"/>
+        <DatePicker x:Name="dtpFechaNacimiento" HorizontalAlignment="Left" Margin="268,348,0,0" VerticalAlignment="Top" SelectedDateFormat="Short" Width="182" Height="26" DisplayDate="11/01/2023 14:26:43"/>
         <TextBox x:Name="txtSalario" HorizontalAlignment="Left" Margin="270,397,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="180" Height="19"/>
         <TextBox x:Name="txtTelefono" HorizontalAlignment="Left" Margin="270,439,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="180" Height="19"/>
         <TextBox x:Name="txtDireccion" HorizontalAlignment="Left" Margin="270,483,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="180" Height="19"/>

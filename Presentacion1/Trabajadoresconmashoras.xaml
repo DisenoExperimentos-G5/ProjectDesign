@@ -6,14 +6,14 @@
         xmlns:local="clr-namespace:Presentacion1"
         mc:Ignorable="d"
         Title="Trabajadoresconmashoras" Height="450" Width="800">
-    <Grid Margin="0,0,-249,-125">
-        <Image Source="/WhatsApp Image 2022-06-27 at 9.38.47 PM.jpeg" Stretch="Fill"/>
+    <Grid>
+        <Image Source="/WhatsApp Image 2022-06-27 at 9.38.47 PM.jpeg" Stretch="Fill" HorizontalAlignment="Stretch" Margin="0,0,0,0" VerticalAlignment="Stretch"/>
         <Grid Margin="134,139,134,95">
 
-            <DataGrid x:Name="dgtrabajadoresmashoras" Margin="71,60,10,10"/>
+            <DataGrid x:Name="dgtrabajadoresmashoras" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
         </Grid>
         <Grid HorizontalAlignment="Center" Margin="0,354,0,0" VerticalAlignment="Top">
-            <Button x:Name="btnSalir" Content="Salir" HorizontalAlignment="Left" Height="35" VerticalAlignment="Top" Width="90" Background="#FF2C595A" BorderBrush="White" Foreground="White" FontFamily="Agency FB" FontWeight="Bold" FontSize="16" Click="btnSalir_Click" Margin="14,126,0,0"/>
+            <Button x:Name="btnSalir" Content="Salir" HorizontalAlignment="Center" Height="35" VerticalAlignment="Top" Width="90" Background="#FF2C595A" BorderBrush="White" Foreground="White" FontFamily="Agency FB" FontWeight="Bold" FontSize="16" Click="btnSalir_Click"/>
 
         </Grid>
 

@@ -43,8 +43,10 @@ namespace Datos
                 {
 
                     eAusencias ausencia = new eAusencias();
+                    ausencia.id_trabajador = (int)reader["id_Trabajador"];
                     trabajador.Nombres = (string)reader["Nombre"];
                     trabajador.Apellido_Paterno = (string)reader["Apellido_paterno"];
+                    trabajador.Id_Trabajador = ausencia.id_trabajador;
                     ausencia.numero_de_ausencias = (int)reader["numeroAusencias"];
                     lsTrabajadores.Add(ausencia);
                 }
