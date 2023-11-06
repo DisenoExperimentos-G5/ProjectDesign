@@ -100,7 +100,52 @@ namespace Datos
                 db.DesconectaDb();
             }
         }
-
+        public List<eTrabajador> ListarTodoTrabajadorporid(int id)
+        {
+            try
+            {
+                List<eTrabajador> lsSector = new List<eTrabajador>();
+                eTrabajador sector = null;
+                eSector secto = null;
+                eCargo carg = null;
+                SqlConnection con = db.ConectaDb();
+                SqlCommand cmd = new SqlCommand("select id_trabajador,Nombres, Apellido_paterno,Apellido_materno,DNI,Fecha_nacimiento, Salario,Telefono,Direcion,Años_en_la_empresa,id_cargo,id_sector from tbTrabajador", con);
+                SqlDataReader reader = cmd.ExecuteReader();
+                while (reader.Read())
+                {
+                    secto = new eSector();
+                    carg = new eCargo();
+                    sector = new eTrabajador();
+                    sector.Id_Trabajador = (int)reader["id_trabajador"];
+                    sector.Nombres = (string)reader["Nombres"];
+                    sector.Apellido_Paterno = (string)reader["Apellido_paterno"];
+                    sector.Apellido_Materno = (string)reader["Apellido_materno"];
+                    sector.Nombre_Completo = (string)reader["Nombres"] + " " + (string)reader["Apellido_paterno"];
+                    sector.DNI = (int)reader["DNI"];
+                    sector.Fecha_Nacimiento = (DateTime)reader["Fecha_nacimiento"];
+                    sector.Salario = (decimal)reader["Salario"];
+                    sector.Telefono = (int)reader["Telefono"];
+                    sector.Direccion = (string)reader["Direcion"];
+                    sector.AnhoIngreso = (int)reader["Años_en_la_empresa"];
+                    secto.Id_Sector = (int)reader["id_sector"];
+                    sector.sector = secto;
+                    carg.Id_Cargo = (int)reader["id_cargo"];
+                    sector.cargo = carg;
+                    if (id == sector.DNI)
+                        lsSector.Add(sector);
+                }
+                reader.Close();
+                return lsSector;
+            }
+            catch (Exception ex)
+            {
+                return null;
+            }
+            finally
+            {
+                db.DesconectaDb();
+            }
+        }
         public List<eTrabajador> TrabajadoresxCargo(int idCargo)    //retornar la lista de trabajadores de un cargo
         {
             try

@@ -14,7 +14,7 @@ namespace Datos
         {
             try
             {
-                string cadenaconexion = "Data Source=LAPTOP-254UCORC\\SQLEXPRESS1;Initial Catalog=dbTrabaFinal;Integrated Security=True";
+                string cadenaconexion = "Data Source=Piero\\SQLEXPRESS;Initial Catalog=dbTrabaFinal;Integrated Security=True";
                 con = new SqlConnection(cadenaconexion);
                 con.Open();
                 return con;
