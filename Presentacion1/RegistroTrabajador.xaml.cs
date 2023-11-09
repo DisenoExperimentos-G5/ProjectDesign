@@ -70,12 +70,11 @@ namespace Presentacion1
         }
         private void btnRegistrarTrabajador_Click(object sender, RoutedEventArgs e)
         {
-
-            string format = "MM/dd/yyyy";
             if(txtNombreTrabajador.Text != "" && txtAP.Text != "" && txtAM.Text != "" && txtDni.Text != "" && dtpFechaNacimiento.Text != "" && 
                 txtSalario.Text != "" && txtTelefono.Text != "" && txtDireccion.Text !="" && txtAñosEmpres.Text !="" && cbCargo.SelectedIndex != -1 && cbSector.SelectedIndex != -1)
             {
-                MessageBox.Show(gtrabajador.RegistrarTrabajador(txtNombreTrabajador.Text, txtAP.Text, txtAM.Text,Convert.ToInt32(txtDni.Text), DateTime.ParseExact(dtpFechaNacimiento.Text,format,CultureInfo.InvariantCulture), Convert.ToInt32(txtSalario.Text)
+
+                MessageBox.Show(gtrabajador.RegistrarTrabajador(txtNombreTrabajador.Text, txtAP.Text, txtAM.Text,Convert.ToInt32(txtDni.Text), Convert.ToDateTime(dtpFechaNacimiento.Text,CultureInfo.CreateSpecificCulture("en-us").DateTimeFormat), Convert.ToInt32(txtSalario.Text)
                 , Convert.ToInt32(txtTelefono.Text),txtDireccion.Text, Convert.ToInt32(txtAñosEmpres.Text),cargo.Id_Cargo,sector.Id_Sector));
                 limpiar();
 
