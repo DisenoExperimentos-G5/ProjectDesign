@@ -70,6 +70,15 @@ namespace Presentacion1
         }
         private void btnRegistrarTrabajador_Click(object sender, RoutedEventArgs e)
         {
+<<<<<<< HEAD
+            if(txtNombreTrabajador.Text != "" && txtAP.Text != "" && txtAM.Text != "" && txtDni.Text != "" && dtpFechaNacimiento.Text != "" && 
+                txtSalario.Text != "" && txtTelefono.Text != "" && txtDireccion.Text !="" && txtAñosEmpres.Text !="" && cbCargo.SelectedIndex != -1 && cbSector.SelectedIndex != -1)
+            {
+
+                MessageBox.Show(gtrabajador.RegistrarTrabajador(txtNombreTrabajador.Text, txtAP.Text, txtAM.Text,Convert.ToInt32(txtDni.Text), Convert.ToDateTime(dtpFechaNacimiento.Text,CultureInfo.CreateSpecificCulture("en-us").DateTimeFormat), Convert.ToInt32(txtSalario.Text)
+                , Convert.ToInt32(txtTelefono.Text),txtDireccion.Text, Convert.ToInt32(txtAñosEmpres.Text),cargo.Id_Cargo,sector.Id_Sector));
+                limpiar();
+=======
             int cambio;
             string format = "MM/dd/yyyy";
             int dnicon;
@@ -96,6 +105,7 @@ namespace Presentacion1
                     MessageBox.Show("El DNI debe tener 8 dígitos");
                     txtNombreTrabajador.Focus();
                 }
+>>>>>>> 6ccd8332ebc3f0a14b2bc1afcbbde545789f55a9
 
             }
             else
