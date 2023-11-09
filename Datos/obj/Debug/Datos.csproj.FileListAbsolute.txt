@@ -25,3 +25,12 @@ C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA 
 C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Datos\obj\Debug\Datos.csproj.CopyComplete
 C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Datos\obj\Debug\Datos.dll
 C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Datos\obj\Debug\Datos.pdb
+C:\Users\piero\Downloads\Nueva carpeta (49)\ProjectDesign\Datos\bin\Debug\Datos.dll
+C:\Users\piero\Downloads\Nueva carpeta (49)\ProjectDesign\Datos\bin\Debug\Datos.pdb
+C:\Users\piero\Downloads\Nueva carpeta (49)\ProjectDesign\Datos\bin\Debug\Entidades.dll
+C:\Users\piero\Downloads\Nueva carpeta (49)\ProjectDesign\Datos\bin\Debug\Entidades.pdb
+C:\Users\piero\Downloads\Nueva carpeta (49)\ProjectDesign\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\piero\Downloads\Nueva carpeta (49)\ProjectDesign\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\piero\Downloads\Nueva carpeta (49)\ProjectDesign\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\piero\Downloads\Nueva carpeta (49)\ProjectDesign\Datos\obj\Debug\Datos.dll
+C:\Users\piero\Downloads\Nueva carpeta (49)\ProjectDesign\Datos\obj\Debug\Datos.pdb

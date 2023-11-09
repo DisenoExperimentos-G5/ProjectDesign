@@ -60,6 +60,12 @@ namespace Negocio
         {
             return trabajadordatos.Listar_Trabajadores_Mayores_ausecias();
         }
-        
+
+
+        public List<eTrabajador> ListarTodoTrabajadorporid(int id)
+        {
+            return trabajadordatos.ListarTodoTrabajadorporid(id);
+        }
+
     }
 }

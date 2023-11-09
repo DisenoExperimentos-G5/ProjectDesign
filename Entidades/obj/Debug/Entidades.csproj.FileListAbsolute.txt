@@ -16,3 +16,9 @@ C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA 
 C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Entidades\obj\Debug\Entidades.dll
 C:\Users\gabri\Desktop\FINAL AHORA SI TE LO JURO ULTIMA VERSION (2)\FINAL AHORA SI TE LO JURO ULTIMA VERSION\Entidades\obj\Debug\Entidades.pdb
+C:\Users\piero\Downloads\Nueva carpeta (49)\ProjectDesign\Entidades\bin\Debug\Entidades.dll
+C:\Users\piero\Downloads\Nueva carpeta (49)\ProjectDesign\Entidades\bin\Debug\Entidades.pdb
+C:\Users\piero\Downloads\Nueva carpeta (49)\ProjectDesign\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\piero\Downloads\Nueva carpeta (49)\ProjectDesign\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\piero\Downloads\Nueva carpeta (49)\ProjectDesign\Entidades\obj\Debug\Entidades.dll
+C:\Users\piero\Downloads\Nueva carpeta (49)\ProjectDesign\Entidades\obj\Debug\Entidades.pdb
